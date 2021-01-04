@@ -1,0 +1,22 @@
+c:\users\demluan152\documents\visual studio 2015\Projects\3D Shape Challenge 2.0\3D Shape Challenge 2.0\bin\Debug\3D Shape Challenge 2.0.exe.config
+c:\users\demluan152\documents\visual studio 2015\Projects\3D Shape Challenge 2.0\3D Shape Challenge 2.0\bin\Debug\input.txt
+c:\users\demluan152\documents\visual studio 2015\Projects\3D Shape Challenge 2.0\3D Shape Challenge 2.0\bin\Debug\3D Shape Challenge 2.0.exe
+c:\users\demluan152\documents\visual studio 2015\Projects\3D Shape Challenge 2.0\3D Shape Challenge 2.0\bin\Debug\3D Shape Challenge 2.0.pdb
+c:\users\demluan152\documents\visual studio 2015\Projects\3D Shape Challenge 2.0\3D Shape Challenge 2.0\obj\Debug\3D Shape Challenge 2.0.csprojResolveAssemblyReference.cache
+c:\users\demluan152\documents\visual studio 2015\Projects\3D Shape Challenge 2.0\3D Shape Challenge 2.0\obj\Debug\3D Shape Challenge 2.0.exe
+c:\users\demluan152\documents\visual studio 2015\Projects\3D Shape Challenge 2.0\3D Shape Challenge 2.0\obj\Debug\3D Shape Challenge 2.0.pdb
+C:\Users\Richard\Grand Erie DSB\DE MARCHI MAROPO, LUANA (STUDENT) - ICS3C\Coding Challenges\ICS3U Challenge #1 - 3D Shapes\3D Shape Challenge 2.0\3D Shape Challenge 2.0\bin\Debug\input.txt
+C:\Users\Richard\Grand Erie DSB\DE MARCHI MAROPO, LUANA (STUDENT) - ICS3C\Coding Challenges\ICS3U Challenge #1 - 3D Shapes\3D Shape Challenge 2.0\3D Shape Challenge 2.0\bin\Debug\3D Shape Challenge 2.0.exe.config
+C:\Users\Richard\Grand Erie DSB\DE MARCHI MAROPO, LUANA (STUDENT) - ICS3C\Coding Challenges\ICS3U Challenge #1 - 3D Shapes\3D Shape Challenge 2.0\3D Shape Challenge 2.0\bin\Debug\3D Shape Challenge 2.0.exe
+C:\Users\Richard\Grand Erie DSB\DE MARCHI MAROPO, LUANA (STUDENT) - ICS3C\Coding Challenges\ICS3U Challenge #1 - 3D Shapes\3D Shape Challenge 2.0\3D Shape Challenge 2.0\bin\Debug\3D Shape Challenge 2.0.pdb
+C:\Users\Richard\Grand Erie DSB\DE MARCHI MAROPO, LUANA (STUDENT) - ICS3C\Coding Challenges\ICS3U Challenge #1 - 3D Shapes\3D Shape Challenge 2.0\3D Shape Challenge 2.0\obj\Debug\3D Shape Challenge 2.0.csprojResolveAssemblyReference.cache
+C:\Users\Richard\Grand Erie DSB\DE MARCHI MAROPO, LUANA (STUDENT) - ICS3C\Coding Challenges\ICS3U Challenge #1 - 3D Shapes\3D Shape Challenge 2.0\3D Shape Challenge 2.0\obj\Debug\3D Shape Challenge 2.0.exe
+C:\Users\Richard\Grand Erie DSB\DE MARCHI MAROPO, LUANA (STUDENT) - ICS3C\Coding Challenges\ICS3U Challenge #1 - 3D Shapes\3D Shape Challenge 2.0\3D Shape Challenge 2.0\obj\Debug\3D Shape Challenge 2.0.pdb
+C:\Users\lunal\Documents\Escola\Programação\Coding Challenges\ICS3U Challenge #1 - 3D Shapes\3D Shape Challenge 2.0\3D Shape Challenge 2.0\bin\Debug\input.txt
+C:\Users\lunal\Documents\Escola\Programação\Coding Challenges\ICS3U Challenge #1 - 3D Shapes\3D Shape Challenge 2.0\3D Shape Challenge 2.0\bin\Debug\3D Shape Challenge 2.0.exe.config
+C:\Users\lunal\Documents\Escola\Programação\Coding Challenges\ICS3U Challenge #1 - 3D Shapes\3D Shape Challenge 2.0\3D Shape Challenge 2.0\bin\Debug\3D Shape Challenge 2.0.exe
+C:\Users\lunal\Documents\Escola\Programação\Coding Challenges\ICS3U Challenge #1 - 3D Shapes\3D Shape Challenge 2.0\3D Shape Challenge 2.0\bin\Debug\3D Shape Challenge 2.0.pdb
+C:\Users\lunal\Documents\Escola\Programação\Coding Challenges\ICS3U Challenge #1 - 3D Shapes\3D Shape Challenge 2.0\3D Shape Challenge 2.0\obj\Debug\3D Shape Challenge 2.0.csprojResolveAssemblyReference.cache
+C:\Users\lunal\Documents\Escola\Programação\Coding Challenges\ICS3U Challenge #1 - 3D Shapes\3D Shape Challenge 2.0\3D Shape Challenge 2.0\obj\Debug\3D Shape Challenge 2.0.csproj.CoreCompileInputs.cache
+C:\Users\lunal\Documents\Escola\Programação\Coding Challenges\ICS3U Challenge #1 - 3D Shapes\3D Shape Challenge 2.0\3D Shape Challenge 2.0\obj\Debug\3D Shape Challenge 2.0.exe
+C:\Users\lunal\Documents\Escola\Programação\Coding Challenges\ICS3U Challenge #1 - 3D Shapes\3D Shape Challenge 2.0\3D Shape Challenge 2.0\obj\Debug\3D Shape Challenge 2.0.pdb

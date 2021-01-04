@@ -1,0 +1,7 @@
+C:\Users\demluan152\OneDrive - Grand Erie DSB\ICS3U\Coding Challenges\ICS3U Challenge #2 - Binary Encoder\Binary Enconder Test\Binary Enconder Test\bin\Debug\Binary Enconder Test.exe.config
+C:\Users\demluan152\OneDrive - Grand Erie DSB\ICS3U\Coding Challenges\ICS3U Challenge #2 - Binary Encoder\Binary Enconder Test\Binary Enconder Test\bin\Debug\Binary Enconder Test.exe
+C:\Users\demluan152\OneDrive - Grand Erie DSB\ICS3U\Coding Challenges\ICS3U Challenge #2 - Binary Encoder\Binary Enconder Test\Binary Enconder Test\bin\Debug\Binary Enconder Test.pdb
+C:\Users\demluan152\OneDrive - Grand Erie DSB\ICS3U\Coding Challenges\ICS3U Challenge #2 - Binary Encoder\Binary Enconder Test\Binary Enconder Test\obj\Debug\Binary Enconder Test.csprojResolveAssemblyReference.cache
+C:\Users\demluan152\OneDrive - Grand Erie DSB\ICS3U\Coding Challenges\ICS3U Challenge #2 - Binary Encoder\Binary Enconder Test\Binary Enconder Test\obj\Debug\Binary Enconder Test.csproj.CoreCompileInputs.cache
+C:\Users\demluan152\OneDrive - Grand Erie DSB\ICS3U\Coding Challenges\ICS3U Challenge #2 - Binary Encoder\Binary Enconder Test\Binary Enconder Test\obj\Debug\Binary Enconder Test.exe
+C:\Users\demluan152\OneDrive - Grand Erie DSB\ICS3U\Coding Challenges\ICS3U Challenge #2 - Binary Encoder\Binary Enconder Test\Binary Enconder Test\obj\Debug\Binary Enconder Test.pdb

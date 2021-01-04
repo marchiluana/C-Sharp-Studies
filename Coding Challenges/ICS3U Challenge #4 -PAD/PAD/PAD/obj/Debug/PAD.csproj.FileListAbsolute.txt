@@ -1,0 +1,12 @@
+C:\Users\demluan152\OneDrive - Grand Erie DSB\ICS3U\Coding Challenges\ICS3U Challenge #4 -PAD\PAD\PAD\bin\Debug\input.txt
+C:\Users\demluan152\OneDrive - Grand Erie DSB\ICS3U\Coding Challenges\ICS3U Challenge #4 -PAD\PAD\PAD\bin\Debug\PAD.exe.config
+C:\Users\demluan152\OneDrive - Grand Erie DSB\ICS3U\Coding Challenges\ICS3U Challenge #4 -PAD\PAD\PAD\bin\Debug\PAD.exe
+C:\Users\demluan152\OneDrive - Grand Erie DSB\ICS3U\Coding Challenges\ICS3U Challenge #4 -PAD\PAD\PAD\bin\Debug\PAD.pdb
+C:\Users\demluan152\OneDrive - Grand Erie DSB\ICS3U\Coding Challenges\ICS3U Challenge #4 -PAD\PAD\PAD\obj\Debug\PAD.csprojResolveAssemblyReference.cache
+C:\Users\demluan152\OneDrive - Grand Erie DSB\ICS3U\Coding Challenges\ICS3U Challenge #4 -PAD\PAD\PAD\obj\Debug\PAD.csproj.CoreCompileInputs.cache
+C:\Users\demluan152\OneDrive - Grand Erie DSB\ICS3U\Coding Challenges\ICS3U Challenge #4 -PAD\PAD\PAD\obj\Debug\PAD.exe
+C:\Users\demluan152\OneDrive - Grand Erie DSB\ICS3U\Coding Challenges\ICS3U Challenge #4 -PAD\PAD\PAD\obj\Debug\PAD.pdb
+C:\Users\lunal\Documents\Escola\Programação\Coding Challenges\ICS3U Challenge #4 -PAD\PAD\PAD\obj\Debug\PAD.csprojResolveAssemblyReference.cache
+C:\Users\lunal\Documents\Escola\Programação\Coding Challenges\ICS3U Challenge #4 -PAD\PAD\PAD\obj\Debug\PAD.csproj.CoreCompileInputs.cache
+C:\Users\lunal\Documents\Escola\Programação\Coding Challenges\ICS3U Challenge #4 -PAD\PAD\PAD\obj\Debug\PAD.exe
+C:\Users\lunal\Documents\Escola\Programação\Coding Challenges\ICS3U Challenge #4 -PAD\PAD\PAD\obj\Debug\PAD.pdb

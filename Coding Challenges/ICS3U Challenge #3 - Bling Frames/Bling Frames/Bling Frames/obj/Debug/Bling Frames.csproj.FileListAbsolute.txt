@@ -1,0 +1,24 @@
+C:\Users\demluan152\OneDrive - Grand Erie DSB\ICS3U\Coding Challenges\ICS3U Challenge #3 - Bling Frames\Bling Frames\Bling Frames\bin\Debug\input.txt
+C:\Users\demluan152\OneDrive - Grand Erie DSB\ICS3U\Coding Challenges\ICS3U Challenge #3 - Bling Frames\Bling Frames\Bling Frames\bin\Debug\Bling Frames.exe.config
+C:\Users\demluan152\OneDrive - Grand Erie DSB\ICS3U\Coding Challenges\ICS3U Challenge #3 - Bling Frames\Bling Frames\Bling Frames\bin\Debug\Bling Frames.exe
+C:\Users\demluan152\OneDrive - Grand Erie DSB\ICS3U\Coding Challenges\ICS3U Challenge #3 - Bling Frames\Bling Frames\Bling Frames\bin\Debug\Bling Frames.pdb
+C:\Users\demluan152\OneDrive - Grand Erie DSB\ICS3U\Coding Challenges\ICS3U Challenge #3 - Bling Frames\Bling Frames\Bling Frames\obj\Debug\Bling Frames.csprojResolveAssemblyReference.cache
+C:\Users\demluan152\OneDrive - Grand Erie DSB\ICS3U\Coding Challenges\ICS3U Challenge #3 - Bling Frames\Bling Frames\Bling Frames\obj\Debug\Bling Frames.csproj.CoreCompileInputs.cache
+C:\Users\demluan152\OneDrive - Grand Erie DSB\ICS3U\Coding Challenges\ICS3U Challenge #3 - Bling Frames\Bling Frames\Bling Frames\obj\Debug\Bling Frames.exe
+C:\Users\demluan152\OneDrive - Grand Erie DSB\ICS3U\Coding Challenges\ICS3U Challenge #3 - Bling Frames\Bling Frames\Bling Frames\obj\Debug\Bling Frames.pdb
+C:\Users\lunal\Documents\Escola\Programação\Bling Frams\OneDrive_2018-06-14\ICS3U Challenge #3 - Bling Frames\Bling Frames\Bling Frames\bin\Debug\input.txt
+C:\Users\lunal\Documents\Escola\Programação\Bling Frams\OneDrive_2018-06-14\ICS3U Challenge #3 - Bling Frames\Bling Frames\Bling Frames\bin\Debug\Bling Frames.exe.config
+C:\Users\lunal\Documents\Escola\Programação\Bling Frams\OneDrive_2018-06-14\ICS3U Challenge #3 - Bling Frames\Bling Frames\Bling Frames\bin\Debug\Bling Frames.exe
+C:\Users\lunal\Documents\Escola\Programação\Bling Frams\OneDrive_2018-06-14\ICS3U Challenge #3 - Bling Frames\Bling Frames\Bling Frames\bin\Debug\Bling Frames.pdb
+C:\Users\lunal\Documents\Escola\Programação\Bling Frams\OneDrive_2018-06-14\ICS3U Challenge #3 - Bling Frames\Bling Frames\Bling Frames\obj\Debug\Bling Frames.csprojResolveAssemblyReference.cache
+C:\Users\lunal\Documents\Escola\Programação\Bling Frams\OneDrive_2018-06-14\ICS3U Challenge #3 - Bling Frames\Bling Frames\Bling Frames\obj\Debug\Bling Frames.csproj.CoreCompileInputs.cache
+C:\Users\lunal\Documents\Escola\Programação\Bling Frams\OneDrive_2018-06-14\ICS3U Challenge #3 - Bling Frames\Bling Frames\Bling Frames\obj\Debug\Bling Frames.exe
+C:\Users\lunal\Documents\Escola\Programação\Bling Frams\OneDrive_2018-06-14\ICS3U Challenge #3 - Bling Frames\Bling Frames\Bling Frames\obj\Debug\Bling Frames.pdb
+C:\Users\lunal\Documents\Escola\Programação\Coding Challenges\ICS3U Challenge #3 - Bling Frames\Bling Frames\Bling Frames\bin\Debug\input.txt
+C:\Users\lunal\Documents\Escola\Programação\Coding Challenges\ICS3U Challenge #3 - Bling Frames\Bling Frames\Bling Frames\bin\Debug\Bling Frames.exe.config
+C:\Users\lunal\Documents\Escola\Programação\Coding Challenges\ICS3U Challenge #3 - Bling Frames\Bling Frames\Bling Frames\bin\Debug\Bling Frames.exe
+C:\Users\lunal\Documents\Escola\Programação\Coding Challenges\ICS3U Challenge #3 - Bling Frames\Bling Frames\Bling Frames\bin\Debug\Bling Frames.pdb
+C:\Users\lunal\Documents\Escola\Programação\Coding Challenges\ICS3U Challenge #3 - Bling Frames\Bling Frames\Bling Frames\obj\Debug\Bling Frames.csprojResolveAssemblyReference.cache
+C:\Users\lunal\Documents\Escola\Programação\Coding Challenges\ICS3U Challenge #3 - Bling Frames\Bling Frames\Bling Frames\obj\Debug\Bling Frames.csproj.CoreCompileInputs.cache
+C:\Users\lunal\Documents\Escola\Programação\Coding Challenges\ICS3U Challenge #3 - Bling Frames\Bling Frames\Bling Frames\obj\Debug\Bling Frames.exe
+C:\Users\lunal\Documents\Escola\Programação\Coding Challenges\ICS3U Challenge #3 - Bling Frames\Bling Frames\Bling Frames\obj\Debug\Bling Frames.pdb

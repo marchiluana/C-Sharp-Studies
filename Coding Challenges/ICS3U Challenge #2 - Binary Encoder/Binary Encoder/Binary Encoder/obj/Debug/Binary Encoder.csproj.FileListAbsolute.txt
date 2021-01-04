@@ -1,0 +1,38 @@
+c:\users\demluan152\documents\visual studio 2015\Projects\Binary Encoder\Binary Encoder\bin\Debug\Binary Encoder.exe.config
+C:\Users\demluan152\Documents\Visual Studio 2015\Projects\Binary Encoder\Binary Encoder\bin\Debug\input.txt
+C:\Users\demluan152\Documents\Visual Studio 2015\Projects\Binary Encoder\Binary Encoder\bin\Debug\Binary Encoder.exe
+C:\Users\demluan152\Documents\Visual Studio 2015\Projects\Binary Encoder\Binary Encoder\bin\Debug\Binary Encoder.pdb
+C:\Users\demluan152\Documents\Visual Studio 2015\Projects\Binary Encoder\Binary Encoder\obj\Debug\Binary Encoder.csprojResolveAssemblyReference.cache
+C:\Users\demluan152\Documents\Visual Studio 2015\Projects\Binary Encoder\Binary Encoder\obj\Debug\Binary Encoder.exe
+C:\Users\demluan152\Documents\Visual Studio 2015\Projects\Binary Encoder\Binary Encoder\obj\Debug\Binary Encoder.pdb
+C:\Users\demluan152\OneDrive - Grand Erie DSB\ICS3U\Coding Challenges\ICS3U Challenge #2 - Binary Encoder\Binary Encoder\Binary Encoder\bin\Debug\Binary Encoder.exe.config
+C:\Users\demluan152\OneDrive - Grand Erie DSB\ICS3U\Coding Challenges\ICS3U Challenge #2 - Binary Encoder\Binary Encoder\Binary Encoder\obj\Debug\Binary Encoder.exe
+C:\Users\demluan152\OneDrive - Grand Erie DSB\ICS3U\Coding Challenges\ICS3U Challenge #2 - Binary Encoder\Binary Encoder\Binary Encoder\obj\Debug\Binary Encoder.pdb
+C:\Users\demluan152\OneDrive - Grand Erie DSB\ICS3U\Coding Challenges\ICS3U Challenge #2 - Binary Encoder\Binary Encoder\Binary Encoder\bin\Debug\input.txt
+C:\Users\demluan152\OneDrive - Grand Erie DSB\ICS3U\Coding Challenges\ICS3U Challenge #2 - Binary Encoder\Binary Encoder\Binary Encoder\bin\Debug\Binary Encoder.exe
+C:\Users\demluan152\OneDrive - Grand Erie DSB\ICS3U\Coding Challenges\ICS3U Challenge #2 - Binary Encoder\Binary Encoder\Binary Encoder\bin\Debug\Binary Encoder.pdb
+C:\Users\demluan152\OneDrive - Grand Erie DSB\ICS3U\Coding Challenges\ICS3U Challenge #2 - Binary Encoder\Binary Encoder\Binary Encoder\obj\Debug\Binary Encoder.csprojResolveAssemblyReference.cache
+C:\Users\demluan152\OneDrive - Grand Erie DSB\ICS3U\Coding Challenges\ICS3U Challenge #2 - Binary Encoder\Binary Encoder\Binary Encoder\obj\Debug\Binary Encoder.csproj.CoreCompileInputs.cache
+C:\Users\Richard\Grand Erie DSB\DE MARCHI MAROPO, LUANA (STUDENT) - ICS3C\Coding Challenges\ICS3U Challenge #2 - Binary Encoder\Binary Encoder\Binary Encoder\bin\Debug\input.txt
+C:\Users\Richard\Grand Erie DSB\DE MARCHI MAROPO, LUANA (STUDENT) - ICS3C\Coding Challenges\ICS3U Challenge #2 - Binary Encoder\Binary Encoder\Binary Encoder\bin\Debug\Binary Encoder.exe.config
+C:\Users\Richard\Grand Erie DSB\DE MARCHI MAROPO, LUANA (STUDENT) - ICS3C\Coding Challenges\ICS3U Challenge #2 - Binary Encoder\Binary Encoder\Binary Encoder\bin\Debug\Binary Encoder.exe
+C:\Users\Richard\Grand Erie DSB\DE MARCHI MAROPO, LUANA (STUDENT) - ICS3C\Coding Challenges\ICS3U Challenge #2 - Binary Encoder\Binary Encoder\Binary Encoder\bin\Debug\Binary Encoder.pdb
+C:\Users\Richard\Grand Erie DSB\DE MARCHI MAROPO, LUANA (STUDENT) - ICS3C\Coding Challenges\ICS3U Challenge #2 - Binary Encoder\Binary Encoder\Binary Encoder\obj\Debug\Binary Encoder.csprojResolveAssemblyReference.cache
+C:\Users\Richard\Grand Erie DSB\DE MARCHI MAROPO, LUANA (STUDENT) - ICS3C\Coding Challenges\ICS3U Challenge #2 - Binary Encoder\Binary Encoder\Binary Encoder\obj\Debug\Binary Encoder.exe
+C:\Users\Richard\Grand Erie DSB\DE MARCHI MAROPO, LUANA (STUDENT) - ICS3C\Coding Challenges\ICS3U Challenge #2 - Binary Encoder\Binary Encoder\Binary Encoder\obj\Debug\Binary Encoder.pdb
+C:\Users\lunal\Documents\Escola\Programação\Coding Challenges\ICS3U Challenge #2 - Binary Encoder\Binary Encoder\Binary Encoder\bin\Debug\Binary Encoder.exe.config
+C:\Users\lunal\Documents\Escola\Programação\Coding Challenges\ICS3U Challenge #2 - Binary Encoder\Binary Encoder\Binary Encoder\bin\Debug\Binary Encoder.exe
+C:\Users\lunal\Documents\Escola\Programação\Coding Challenges\ICS3U Challenge #2 - Binary Encoder\Binary Encoder\Binary Encoder\bin\Debug\Binary Encoder.pdb
+C:\Users\lunal\Documents\Escola\Programação\Coding Challenges\ICS3U Challenge #2 - Binary Encoder\Binary Encoder\Binary Encoder\obj\Debug\Binary Encoder.csprojResolveAssemblyReference.cache
+C:\Users\lunal\Documents\Escola\Programação\Coding Challenges\ICS3U Challenge #2 - Binary Encoder\Binary Encoder\Binary Encoder\obj\Debug\Binary Encoder.csproj.CoreCompileInputs.cache
+C:\Users\lunal\Documents\Escola\Programação\Coding Challenges\ICS3U Challenge #2 - Binary Encoder\Binary Encoder\Binary Encoder\obj\Debug\Binary Encoder.exe
+C:\Users\lunal\Documents\Escola\Programação\Coding Challenges\ICS3U Challenge #2 - Binary Encoder\Binary Encoder\Binary Encoder\obj\Debug\Binary Encoder.pdb
+C:\Users\lunal\Documents\Escola\Programação\Coding Challenges\ICS3U Challenge #2 - Binary Encoder\Binary Encoder\Binary Encoder\bin\Debug\input thaty.txt
+D:\Users\Eve\Documents\Programação\Canada\Coding Challenges\ICS3U Challenge #2 - Binary Encoder\Binary Encoder\Binary Encoder\bin\Debug\input thaty.txt
+D:\Users\Eve\Documents\Programação\Canada\Coding Challenges\ICS3U Challenge #2 - Binary Encoder\Binary Encoder\Binary Encoder\bin\Debug\Binary Encoder.exe.config
+D:\Users\Eve\Documents\Programação\Canada\Coding Challenges\ICS3U Challenge #2 - Binary Encoder\Binary Encoder\Binary Encoder\bin\Debug\Binary Encoder.exe
+D:\Users\Eve\Documents\Programação\Canada\Coding Challenges\ICS3U Challenge #2 - Binary Encoder\Binary Encoder\Binary Encoder\bin\Debug\Binary Encoder.pdb
+D:\Users\Eve\Documents\Programação\Canada\Coding Challenges\ICS3U Challenge #2 - Binary Encoder\Binary Encoder\Binary Encoder\obj\Debug\Binary Encoder.csprojAssemblyReference.cache
+D:\Users\Eve\Documents\Programação\Canada\Coding Challenges\ICS3U Challenge #2 - Binary Encoder\Binary Encoder\Binary Encoder\obj\Debug\Binary Encoder.csproj.CoreCompileInputs.cache
+D:\Users\Eve\Documents\Programação\Canada\Coding Challenges\ICS3U Challenge #2 - Binary Encoder\Binary Encoder\Binary Encoder\obj\Debug\Binary Encoder.exe
+D:\Users\Eve\Documents\Programação\Canada\Coding Challenges\ICS3U Challenge #2 - Binary Encoder\Binary Encoder\Binary Encoder\obj\Debug\Binary Encoder.pdb
